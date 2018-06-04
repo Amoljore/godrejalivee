@@ -1,0 +1,46 @@
+
+         body{
+         font-family: 'Merriweather Sans', sans-serif;
+         }
+         #coming-soon-bg{
+         background-image: url("../images/coming-soon-bg.jpg");
+         height:100vh;
+         background-size: cover;
+         background-repeat: no-repeat;
+         background-position: center center;
+         }
+         #coming-soon-bg .logo {
+         padding: 136px 0 9px;
+         width: 133px;
+         }
+        #coming-soon-bg h1{
+            font-size:48px;
+        }
+         #coming-soon-bg p {
+         font-size: 29px;
+         margin: 0 auto;
+         line-height: 39px;
+         padding: 10px 0;
+         }
+         #coming-soon-bg h1,p{
+         color: #505050;
+         text-align: center;
+         text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7);
+         }
+         @media screen and (max-width: 767px){
+         #coming-soon-bg .logo {
+         padding: 120px 0 9px;
+         width:133px;
+         }
+         #coming-soon-bg h1{
+         font-size:22px;
+         }
+         #coming-soon-bg p{
+         font-size:16px;
+         line-height:33px;
+         }
+         #coming-soon-bg{
+             height: 100;
+         }
+         }
+    

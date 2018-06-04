@@ -1,0 +1,1151 @@
+@font-face {
+    font-family: din-regular;
+    src: url(../fonts/din-regular.ttf);
+}
+
+.col-gallery-img{
+    padding-left:0px !important;
+    padding-bottom:15px;
+}
+ .section-gallery {
+    padding: 20px 0px 7px;
+}
+.gallery-img-block-godrej:hover .gallery-block-text { opacity: 0; }
+.enq-wrapper { padding: 0; }
+
+/*section.landing-banner-replica{
+    background-image:url("../images/godrej-tree/tree-banner.png");  
+    background-size: cover;
+    background-position: bottom center;
+}
+
+
+section.landing-banner-us-sg{
+    background-image:url("../images/godrej-imgs/banner-us-sg-1.png") !important;
+    background-position: left center !important;
+}
+
+*/
+.prelaunch-msg-section P, body {
+    font-size: 18px;
+    line-height: 22px;
+   
+}
+#enquiry-form input {
+    color:#fff;
+}
+
+#amenities-logo-10,
+#amenities-logo-11,
+#amenities-logo-12,
+#amenities-logo-7,
+#amenities-logo-8,
+#amenities-logo-9 {
+    background-position-y: -83px
+}
+
+#amenities-logo-14,
+#amenities-logo-2,
+#amenities-logo-8 {
+    background-position-x: -82px
+}
+
+#amenities-logo-15,
+#amenities-logo-3,
+#amenities-logo-9 {
+    background-position-x: -165px
+}
+
+#amenities-logo-10,
+#amenities-logo-16,
+#amenities-logo-4 {
+    background-position-x: -248px
+}
+
+#amenities-logo-11,
+#amenities-logo-17,
+#amenities-logo-5 {
+    background-position-x: -332px
+}
+
+#amenities-logo-12,
+#amenities-logo-18,
+#amenities-logo-6 {
+    background-position-x: -415px
+}
+
+#amenities-logo-14,
+#amenities-logo-15,
+#amenities-logo-16,
+#amenities-logo-17,
+#amenities-logo-18,
+#connectivity-logo-3 {
+    background-position-y: -165px
+}
+
+#amenities-logo-1,
+#amenities-logo-2,
+#amenities-logo-3,
+#amenities-logo-4,
+#amenities-logo-5,
+#connectivity-logo-1,
+#connectivity-logo-2,
+#connectivity-logo-4,
+#connectivity-logo-5,
+#connectivity-logo-6 {
+    background-position-y: 0
+}
+
+#amenities-logo-1,
+#amenities-logo-13,
+#amenities-logo-19,
+#amenities-logo-7,
+#connectivity-logo-1,
+#connectivity-logo-7 {
+    background-position-x: 0
+}
+
+#connectivity-logo-2,
+#connectivity-logo-8 {
+    background-position-x: -85px
+}
+
+#connectivity-logo-3,
+#connectivity-logo-9 {
+    background-position-x: -170px
+}
+
+#connectivity-logo-10,
+#connectivity-logo-4 {
+    background-position-x: -254px
+}
+
+#amenities-logo-19,
+#connectivity-logo-10,
+#connectivity-logo-8,
+#connectivity-logo-9 {
+    background-position-y: -249px
+}
+
+body {
+    color: #9d9d9d;
+    /*font-family: Cabin, sans-serif*/
+}
+
+#connectivity-logo-11 {
+    background-position-x: 0;
+    background-position-y: -165px
+}
+
+
+/*h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Merriweather Sans', sans-serif
+}*/
+
+.img-100 {
+    width: 100%
+}
+.prelaunch-msg-section P{
+  font-family: 'Futura Md BT', sans-serif !important;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0
+}
+
+#call-me input,
+#request-call-me input {
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif
+}
+
+.banner-section {
+    background-image: url(../images/godrej-imgs/mangroves-banner.jpg);
+    min-height: 500px
+}
+
+#amenities-logo-1,
+#amenities-logo-11,
+#amenities-logo-12,
+#amenities-logo-13,
+#amenities-logo-14,
+#amenities-logo-15,
+#amenities-logo-16,
+#amenities-logo-17,
+#amenities-logo-18,
+#amenities-logo-19,
+#amenities-logo-2,
+#amenities-logo-3,
+#amenities-logo-4,
+#amenities-logo-5,
+#amenities-logo-6,
+#amenities-logo-7,
+#amenities-logo-8,
+#amenities-logo-9 {
+    background-image: url(../images/amenities.png)
+}
+
+#connectivity-logo-1,
+#connectivity-logo-10,
+#connectivity-logo-2,
+#connectivity-logo-3,
+#connectivity-logo-4,
+#connectivity-logo-6,
+#connectivity-logo-7,
+#connectivity-logo-8,
+#connectivity-logo-9,
+#connectivity-logo-10,
+#connectivity-logo-11 {
+    background-image: url(../images/connectivity.png);
+    width: 78px;
+    height: 78px;
+    margin: 0 auto
+}
+
+#amenities-logo-1,
+#amenities-logo-2,
+#amenities-logo-3,
+#amenities-logo-4,
+#amenities-logo-5 {
+    width: 78px;
+    height: 78px;
+    margin: 0 auto
+}
+
+#amenities-logo-6 {
+    background-position-y: 0;
+    width: 78px;
+    height: 78px;
+    margin: 0 auto
+}
+
+#amenities-logo-7,
+#amenities-logo-8,
+#amenities-logo-9 {
+    width: 78px;
+    height: 78px;
+    margin: 0 auto
+}
+
+#amenities-logo-10 {
+    background-image: url(../images/amenities.png);
+    width: 78px;
+    height: 78px;
+    margin: 0 auto
+}
+
+#amenities-logo-11,
+#amenities-logo-12 {
+    width: 78px;
+    height: 78px;
+    margin: 0 auto
+}
+
+#amenities-logo-13 {
+    background-position-y: -166px;
+    width: 78px;
+    height: 78px;
+    margin: 0 auto
+}
+
+#amenities-logo-14,
+#amenities-logo-15,
+#amenities-logo-16,
+#amenities-logo-17,
+#amenities-logo-18,
+#amenities-logo-19 {
+    width: 78px;
+    height: 78px;
+    margin: 0 auto
+}
+
+#connectivity-logo-5 {
+    background-image: url(../images/connectivity.png);
+    background-position-x: -339px;
+    width: 78px;
+    height: 78px;
+    margin: 0 auto
+}
+
+#connectivity-logo-6 {
+    background-position-x: -423px
+}
+
+#connectivity-logo-7 {
+    background-position-y: -250px
+}
+
+.landing-banner-section,
+.schedule-modal-form .banner-section {
+    background-image: url(../images/godrej-tree/tree-banner.jpg);
+    background-size: cover
+}
+.parallax-bg{
+    background: url(../images/godrej-tree/parallax-bg.png);
+    background-attachment: fixed;
+    background-size: cover;
+    color: #333;
+}
+
+.zero-broker-strip {
+    padding-bottom: 20px
+}
+
+.main-logo {
+    margin-bottom: 370px
+}
+
+.landing-banner-section {
+    height: 100vh;
+    overflow: hidden;
+    position: relative
+}
+
+.landing-banner-section .form-wrapper h4 {
+    font-size: 27px;
+    color: #fff;
+    margin: 11px auto -3px;
+    padding-top: 10px
+}
+
+.landing-banner-section .navigation {
+    bottom: 0
+}
+
+.landing-banner-section .strip {
+    position: absolute;
+    bottom: 175px;
+    left: 220px
+}
+
+.landing-banner-section .form-section textarea.form-control {
+    margin-bottom: 0
+}
+
+.landing-banner-section .form-section h5 {
+    font-size: 18px;
+    padding: 15px 0px;
+    font-weight:bold;
+     font-family: din-regular;
+}
+
+.landing-banner-section .form-section .form-control {
+    margin-bottom: 5px
+}
+
+/*.landing-banner-section .form-wrapper {
+    height: 100vh
+}*/
+
+.error-msg {
+    max-width: 230px;
+    float: left
+}
+
+.form-wrapper {
+    background-color: rgba(42, 81, 46, 0.85);
+    clear: both;
+    padding: 30px 20px 15px;
+    position: fixed;
+    top: 120px;
+    max-width: 380px;
+    float: right;
+    right: 0;
+    z-index: 110;
+}
+
+
+.main-logo {
+    padding-top: 25px
+}
+
+.form-section h5 {
+    padding: 20px 0;
+    color: #fff;
+    font-size: 22px
+}
+
+.form-section option {
+    background-color: rgba(33, 161, 133, .86)!important
+}
+
+.form-section select {
+    padding-left: 10px
+}
+
+.form-section .btn-submit {
+    background-color: transparent;
+    color: #fff;
+    width: 130px;
+    height: 30px;
+    border: 1px solid #fff;
+    border-radius: 0;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+#request-call-me input {
+    width: 230px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: #fff;
+    border: 1px solid #21422c;
+    color: #21422c;
+    margin-bottom: 10px;
+    text-align: center
+}
+
+.form-section input, .form-section option, .form-section select {
+    background-color: transparent;
+    border-bottom: 1px solid #fff;
+    /* border-right: 0; */
+    /* border-top: 0; */
+    /* border-left: 0; */
+    border-radius: 0;
+    /* color: #fff; */
+}
+.form-check-label {
+    padding: 10px 0px;
+    font-size: 12px;
+}
+.error {
+    color: red;
+    font-size: 12px;
+    display: block;
+    position:relative;
+    z-index:120;
+}
+
+.form-section {
+    border: 1px solid #fff!important;
+    max-width: 360px;
+    margin: 0 auto;
+    color: #fff;
+    padding: 0 25px
+}
+
+.modal-body .banner-section .form-section {
+    margin-top: -33px;
+    padding-top: 20px
+}
+
+.prelaunch-msg-section h3 {
+    font-size: 22px;
+}
+
+.prelaunch-msg-section p {
+    font-size: 18px;
+    margin-top: 2px;
+    margin-bottom: 0;
+    line-height: 21px;
+}
+
+.prelaunch-msg-section {
+    color: #fff;
+    background-color: #2f5b34;
+    padding: 15px 0 10px
+}
+
+.form-check-input {
+    margin-top: 10px
+}
+
+.form-section .form-control {
+    margin-bottom: 5px!important;
+    -moz-appearance: none
+}
+
+.form-section textarea {
+    background-color: transparent;
+    border: 1px solid #fff;
+    color: #fff;
+    border-radius: 0
+}
+
+.form-wrapper h4 {
+    font-size: 34px;
+    color: #fff;
+    margin: 10px auto;
+    padding-top: 40px
+}
+
+.form-wrapper p {
+    font-size: 24px;
+    color: #fff;
+    margin: 5px 0
+}
+
+.call-me-form {
+    margin: 5px 0;
+    float: right;
+}
+.call-me-form .btn-call-submit {
+     border-radius: 13px !important; 
+    background-color: #fff;
+    width: 103px;
+    color: #2f5b34;
+    margin-top: 14px;
+    padding: 6px 12px;
+    /* margin-bottom: 10px; */
+    height: 40px;
+}
+
+.call-me-form .col-sm-3 {
+    padding: 0
+}
+
+/*#call-me input {*/
+/*    width: 300px;*/
+/*    height: 42px;*/
+/*    border-radius: 0;*/
+/*    background-color: #fff;*/
+/*    color: #2f5b34;*/
+/*    margin: 13px 0;*/
+/*}*/
+#call-me input {
+    width: 256px;
+    height: 42px;
+    border-radius: 0;
+    background-color: #fff;
+    color: #2f5b34;
+    margin: 13px 0;
+    float: right;
+    margin-right: 20px;
+}
+
+.btn-call-submit:hover,
+.btn-submit:hover {
+    background: #033;
+    color: #fff;
+    text-decoration: none;
+    border: 1px solid #fff
+}
+
+.phone-icon {
+    padding-right: 5px;
+    font-size: 16px
+}
+
+.phone-number {
+    /*background-color: #318739;*/
+    width: 79%;
+    margin: 10px auto!important;
+    padding: 5px
+}
+
+.phone-number a {
+    color: #fff;
+    font-size: 16px!important
+}
+
+#download-modal .close,
+#price-modal .close {
+    font-size: 28px;
+    opacity: 1!important
+}
+
+.phone-number a:hover {
+    color: #fff;
+    text-decoration: none
+}
+
+.phone-number a:focus {
+    color: #fff;
+    text-decoration: none;
+    outline: 0
+}
+
+.back-to-top {
+    animation: back-to-top 3s infinite;
+    -webkit-animation: back-to-top 3s infinite
+}
+
+.scrollup {
+    width: 40px;
+    height: 40px;
+    position: fixed;
+    bottom: 10px;
+    right: 30px;
+    display: none;
+    text-indent: -9999px;
+    background: url(../images/go-up-arrow.png) no-repeat
+}
+
+#price_form {
+    padding-top: 20px
+}
+
+#download-modal .modal-header,
+.download-modal-body {
+    background-color: #2f5b34;
+    color: #fff
+}
+
+#download-modal .form-section {
+    min-height: 290px;
+    border: 0!important;
+    padding-top: 15px
+}
+
+.popup-btn h1:hover {
+    background: #3a3939;
+    color: #fff;
+    border: 2px solid rgba(255, 255, 255, 0.37);
+}
+.popup-btn{
+    
+    display:inline-block;
+}
+.anchor:hover {
+    color: #858585
+}
+
+#price-modal .modal-header,
+.download-modal-body {
+    background-color: #2f5b34;
+    color: #fff
+}
+
+#price-modal .modal-header input,
+.download-modal-body {
+    color: #666
+}
+
+#download-modal .modal-dialog {
+    width: 30%
+}
+
+#price-modal .form-section {
+    min-height: 300px!important
+}
+
+#price-modal .download-modal-body {
+    min-height: 300px
+}
+
+#download-modal .form-section input,
+#price-modal .form-section option,
+#price-modal .form-section select {
+    background-color: #fff;
+    border-bottom: 1px solid #fff;
+    border-right: 1px;
+    border-top: 1px;
+    border-left: 1px;
+    border-radius: 1px;
+    color: #666
+}
+
+#download-modal .form-section input::-webkit-input-placeholder {
+    color: #666;
+    font-family: Cabin, sans-serif
+}
+
+#download-modal .form-section input::-moz-placeholder {
+    color: #666;
+    font-family: Cabin, sans-serif
+}
+
+#download-modal .form-section input:-ms-input-placeholder {
+    color: #666;
+    font-family: Cabin, sans-serif
+}
+
+#download-modal .form-section input:-moz-placeholder {
+    color: #666;
+    font-family: Cabin, sans-serif
+}
+
+#price-modal .btn-submit {
+    background-color: transparent;
+    color: #fff;
+    width: 130px;
+    height: 30px;
+    border: 1px solid #fff;
+    border-radius: 0;
+    text-transform: uppercase;
+    margin-bottom: 10px
+}
+
+#price-modal .modal-dialog {
+    width: 33%
+}
+
+#price-modal input {
+    border-radius: 0;
+    color: #858585
+}
+
+#request-call-me input::-webkit-input-placeholder {
+    color: #21422c;
+    font-family: Cabin, sans-serif;
+    font-size: 16px
+}
+
+#request-call-me input::-moz-placeholder {
+    color: #21422c;
+    font-family: Cabin, sans-serif;
+    font-size: 16px
+}
+
+#request-call-me input:-ms-input-placeholder {
+    color: #21422c;
+    font-family: Cabin, sans-serif;
+    font-size: 16px
+}
+
+#request-call-me input:-moz-placeholder {
+    color: #21422c;
+    font-family: Cabin, sans-serif;
+    font-size: 16px
+}
+
+.form-section .from-group {
+    margin-bottom: 20px
+}
+
+.form-section textarea::-webkit-input-placeholder {
+    color: #fff;
+    font-family: Cabin, sans-serif
+}
+
+.form-section textarea::-moz-placeholder {
+    color: #fff;
+    font-family: Cabin, sans-serif
+}
+
+.form-section textarea:-ms-input-placeholder {
+    color: #fff;
+    font-family: Cabin, sans-serif
+}
+
+.form-section textarea:-moz-placeholder {
+    color: #fff;
+    font-family: Cabin, sans-serif
+}
+
+#site_visit .error {
+    margin-top: -6px
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border-color: #fff
+}
+
+#domain_form textarea::-webkit-input-placeholder {
+    color: #fff;
+    font-family: Cabin, sans-serif
+}
+
+#domain_form textarea::-moz-placeholder {
+    color: #fff;
+    font-family: Cabin, sans-serif
+}
+
+#domain_form textarea:-ms-input-placeholder {
+    color: #fff;
+    font-family: Cabin, sans-serif
+}
+
+#domain_form textarea:-moz-placeholder {
+    color: #fff;
+    font-family: Cabin, sans-serif
+}
+
+.form-section input::-webkit-input-placeholder {
+    color: #fff;
+    font-family: Cabin, sans-serif
+}
+
+.form-section input::-moz-placeholder {
+    color: #fff;
+    font-family: Cabin, sans-serif
+}
+
+.form-section input:-ms-input-placeholder {
+    color: #fff;
+    font-family: Cabin, sans-serif
+}
+
+.form-section input:-moz-placeholder {
+    color: #fff;
+    font-family: Cabin, sans-serif
+}
+
+.call-me-form input::-webkit-input-placeholder {
+    color: #2f5b34;
+    font-family: Cabin, sans-serif
+}
+
+.call-me-form input::-moz-placeholder {
+     color: #2f5b34;
+    font-family: Cabin, sans-serif
+}
+
+.call-me-form input:-ms-input-placeholder {
+    color: #2f5b34;
+    font-family: Cabin, sans-serif
+}
+
+.call-me-form input:-moz-placeholder {
+    color: #fff;
+    font-family: Cabin, sans-serif
+}
+
+#enquiry-form .error {
+    margin-bottom: -10px;
+    margin-top: 2px
+}
+
+.schedule-modal-form .modal-dialog {
+    width: 767px;
+    margin-top: 100px
+}
+
+.schedule-modal-form .form-wrapper {
+    min-height: 500px
+}
+
+.schedule-modal-form .modal-body,
+.schedule-modal-form .modal-header {
+    border: 0;
+    padding: 0
+}
+
+.schedule-modal-form .close {
+    float: right;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1;
+    color: #f5f5f5;
+    text-shadow: 0 1px 0 #fff;
+    filter: alpha(opacity=20);
+    opacity: 1!important;
+    position: relative;
+    top: -10px;
+    z-index: 1;
+    border-radius: 50px;
+    padding: 2px;
+    width: 35px;
+    left: 7px
+}
+
+.schedule-modal-form .form-wrapper h4 {
+    font-size: 34px;
+    color: #fff;
+    margin: -35px auto 10px;
+    padding-top: 32px
+}
+
+.schedule-modal-form .form-section {
+    border: 0!important
+}
+
+.footer-rera-text h2 {
+    font-size: 22px
+}
+
+.footer-rera-text .rera-num {
+    padding-top: 20px;
+    font-size: 20px;
+    line-height: 25px;
+}
+.footer-rera-text p strong {
+    font-size: 18px
+}
+
+.second-block-section h3 {
+    padding: 10px;
+    font-size: 20px
+}
+.banner-title{
+    top: 85px;
+    width: 55%;
+    text-transform: uppercase;
+    position: absolute;
+    font-size: 21px;
+    color: #000;	
+}
+
+/* CSS for us & sg replaced banner image title white background */
+.banner-title-background{
+	/*background:white;*/
+	padding: 2px;	
+}
+.gallery-img, .gallery-img-block-godrej {
+    position: relative;
+}
+
+.gallery-img-block-godrej:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.6);
+    transition: all .5s;
+    border: 2px solid rgba(0, 102, 102, 0);
+}  
+.gallery-img-block-godrej:hover:after {
+    left: 10px;
+    right: 10px;
+    top: 10px;
+    bottom: 10px;
+    background: rgba(0, 102, 102, 0);
+    border: 2px solid rgba(255, 255, 255, 1);
+}
+.submerge-line{
+    font-size:20px;
+    display:block;
+}
+@media (min-width:1600px) {
+    .landing-banner-section .form-wrapper {
+        height: auto
+    }
+}
+@media(max-width:1440px) {
+     .prelaunch-msg-section {
+      top: 180px ;
+}
+   
+}
+@media(max-width:1439px) {
+    /*.landing-banner-section,
+    .landing-banner-section .form-wrapper {
+        height: auto
+    }*/
+    .landing-banner-section .strip {
+        max-width: 318px;
+        left: 50px
+    }
+    /*.landing-banner-section .navigation {
+        position: relative;
+    }*/
+    .fixed-header {
+       position: fixed !important;
+   
+    }
+    .call-me-form .btn-call-submit {
+        width: 100px
+    }
+    #call-me input {
+        width: 290px
+    }
+
+}
+@media(max-width:1366px) {
+    .call-me-form .btn-call-submit {
+        width: 100px
+    }
+    #call-me input {
+        width: 230px
+    }
+    .form-wrapper {
+       padding: 10px 20px 0px;
+       top: 100px;
+        max-width: 361px;
+    }
+    .landing-banner-section{
+        height:100vh;
+    }
+    .phone-number {
+        margin: 0px auto !important;
+        padding: 8px;
+   }
+  .prelaunch-msg-section {
+    color: #fff;
+    background-color: #2f5b34;
+    padding: 15px 0 10px;
+    width: 100%;
+
+}
+} 
+@media(max-width:1200px) {
+    .call-me-form .btn-call-submit {
+        width: 100px
+    }
+    #call-me input {
+        width: 230px
+    }
+    .form-wrapper {
+       padding: 10px 20px 0px;
+       top: 70px;
+       max-width: 361px;
+    }
+    .landing-banner-section{
+        height:auto;
+    }
+    .phone-number {
+        margin: 0px auto !important;
+        padding: 8px;
+   }
+ 
+}    
+@media(max-width:992px) {
+    .call-me-form .btn-call-submit {
+        width: 100px
+    }
+    #download-modal .modal-dialog {
+    width: 52%;
+   }
+    #call-me input {
+        width: 230px
+    }
+    #request-call-me input {
+        width: 200px
+    }
+    .landing-banner-section {
+        background-image: url(../images/godrej-tree/tree-banner.jpg);
+        height: auto;
+        overflow: hidden;
+        background-size: cover;
+        position: relative
+    }
+    .landing-banner-section .strip {
+        max-width: 318px;
+        left: 50px;
+    }
+    .zero-broker-strip {
+        max-width: 190px;
+}
+  .icon-text{
+      font-size:23px;
+  }
+  .img-text-block ul li{
+      font-size:16px;
+  }
+   .footer-rera-text .rera-num{
+        font-size:16px;
+        line-height:normal;
+    }
+   
+}
+@media(max-width:767px) {
+  .enq-wrapper { padding: 0 15px; }
+  
+    section.landing-banner-replica{
+        background-attachment: fixed !important;
+    }
+    .unit-pricing-section td{
+        padding-left:10px;
+    }
+    .gallery-section, .unit-pricing-section{
+        padding-bottom:10px;
+    }
+    .banner-title {
+    top: 71px;
+    width: 90%;
+    text-transform: uppercase;
+    position: absolute;
+    font-size: 14px;
+    color: #000;
+    text-align: center;
+    margin: 18px auto;
+}
+.col-gallery-img {
+    padding-left: 15px !important;
+   
+}
+.fixed-header {
+    position: relative !important;
+}
+    .zero-broker-strip {
+        padding-bottom: 10px;
+        margin-top: 10px;
+        max-width: 175px
+    }
+    .strip-2 img {
+        margin-bottom: 10px;
+        max-width: 280px
+    }
+    .landing-banner-section,
+    .landing-banner-section .form-wrapper {
+    
+        top:-12px;
+    }
+    .landing-banner-section .strip {
+        max-width: 100%;
+        left: 0;
+        bottom: 0;
+        padding: 20px;
+        position: relative
+    }
+    .landing-banner-section .navigation {
+        position: relative
+    }
+    #download-modal .form-section {
+        min-height: 200px!important
+    }
+    .phone-number {
+        font-size: 13px!important
+    }
+    .schedule-modal-form .modal-dialog {
+        margin-top: 0
+    }
+    #download-modal .modal-dialog,
+    #price-modal .modal-dialog {
+        width: 100%;
+        margin: 30px auto
+    }
+    #request-call-me input {
+        width: 173px
+    }
+    .schedule-modal-form .modal-dialog {
+        width: 100%;
+        margin-left: 0
+    }
+    .schedule-modal-form .main-logo {
+        padding-top: 0;
+        margin-bottom: 62px
+    }
+    .main-logo {
+        padding-top: 23px;
+        display: block;
+        margin-right: auto;
+        width: 288px;
+        margin-left: auto;
+        margin-bottom: 45px
+    }
+    .prelaunch-msg-section h3 {
+        font-size: 20px
+    }
+    #call-me input {
+        width: 190px!important
+    }
+    .form-wrapper h4 {
+        font-size: 22px
+    }
+    .form-wrapper {
+       padding:10px;
+        clear: both;
+        position:relative;
+    }
+    .footer-rera-text .rera-num{
+        font-size:15px;
+        line-height:normal;
+    }
+    .prelaunch-msg-section h3{
+        font-size: 13px;
+        line-height:normal;
+    }
+    .prelaunch-msg-section P, body {
+    font-size: 16px;
+    line-height: 22px;
+}
+}
+
+@media(max-width:350px) {
+    .call-me-form .btn-call-submit {
+        width: 80px
+    }
+}

@@ -1,0 +1,15 @@
+
+/* Captcha CSS */
+
+img#captcha {
+    width: 120px;
+    float: left;
+}
+a#refresh {
+    float: left;
+    padding: 7px 5px;
+}
+i.fa.fa-refresh {
+    color: #fff;
+    cursor: pointer;
+}

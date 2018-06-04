@@ -1,0 +1,128 @@
+ body{
+                /*margin: 0px;*/
+                /*text-align:center;*/
+                background-color:#e1e1e1;
+                /*font-family:Arial, Sans-Serif;*/
+                /*font-size:0.75em;*/
+            }
+            .box 
+            {
+            	margin: 0px auto;
+            	width:960px;
+            	background-color:#ffffff;
+            	text-align:left;
+                position: relative;
+            }
+            .color-form .form-section{
+                padding-bottom:205px;
+            }
+            .header
+            {
+            	height:100px;
+            }
+            .header h1
+            {
+            	margin:0px;
+            	padding:30px;
+            }
+            .menu
+            {
+            	height:30px;
+            	border-top:solid 1px #dccfbb;
+            	border-bottom:solid 1px #dccfbb;
+            	background-color:#4d3a24;
+            }
+            .menu div
+            {
+            	padding:10px 30px;
+            }
+            .menu a
+            {
+            	margin:0px 10px;
+            	color:#fecd28;
+            	text-decoration: none;
+            }
+            .content
+            {
+             	padding:10px 30px;
+            }
+            #contactFormContainer
+            {
+            	position:fixed;
+            	right:0px;
+            	float:right;
+                top:40%;
+                z-index:999;
+            }
+            .btn-hide{
+                opacity:0;
+            }
+             .btn-show{
+                opacity:1;
+            }
+            #contactForm {
+                height: 315px;
+                width: 351px;
+                background-color:#3f742d;
+                display: none;
+                position: relative;
+                z-index: 9999;
+            }
+            .color-form{
+                background-color:#3f742d !important;
+                top:0 !important;
+                z-index: 99;
+            }
+            #contactForm fieldset
+            {
+            	padding:0px;
+            	border:none;
+            }      
+            #contactForm label
+            {
+            	display:block;
+            	color:#f74747;
+            }      
+            #contactForm input[type=text],#contactForm input[type=email]
+            {
+            	display:block;
+            	/*border:solid 1px #4d3a24;*/
+            	width:100%;
+            	margin-bottom:10px;
+            	height:24px;
+            }  
+            #contactForm textarea
+            {
+            	display:block;
+            	/*border:solid 1px #4d3a24;*/
+            	width:100%;
+            	margin-bottom:10px;
+            }  
+            #contactForm input[type=submit]
+            {
+            	background-color:#4d3a24;
+            	border:solid 1px #23150c;
+            	color:#fecd28;
+            	padding:5px;
+            }                
+            #contactLink
+            {
+            	/*height:40px;*/
+            	width:135px;
+            	/*background-image:url('slidein_button.png');*/
+            	display:block;
+            	cursor:pointer;
+                  background-color: #3f742d;
+                  color: #fff;
+                  padding: 10px;
+                  float: right;
+                  z-index: 9999;
+                  position: relative;
+                  border: 1px solid #335029;
+
+            }
+            #messageSent
+            {
+            	color:#ff9933;
+            	display:none;
+            }
